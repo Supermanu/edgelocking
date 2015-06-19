@@ -1,0 +1,15 @@
+[Desktop Entry]
+Name=EdgeLocking
+Comment=EdgeLocking allows to lock your session by mouse hover above top right corner followed by the right edge.
+
+X-Plasma-API=javascript
+X-Plasma-MainScript=code/main.js
+
+X-KDE-PluginInfo-Author=Manuel Tondeur
+X-KDE-PluginInfo-Name=edgelocking
+X-KDE-PluginInfo-Email=manueltondeur@gmail.com
+X-KDE-PluginInfo-Version=1.1
+
+X-KDE-PluginInfo-License=GPL
+X-KDE-ServiceTypes=KWin/Script
+Type=Service
